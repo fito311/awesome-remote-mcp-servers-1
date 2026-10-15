@@ -611,7 +611,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [47620 Data API](https://47620.xyz/agents) `https://47620.xyz/mcp`
   [![47620 Data API MCP connector](https://glama.ai/mcp/connectors/xyz.47620/solana-data/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.47620/solana-data)
-  🔓 - Pay-per-call data over x402 on Solana, Base and Polygon: token price/liquidity, balances, txs, trending pairs, live crypto market data (OHLCV, RSI/EMA) and unit/JWT utilities.
+  🔓 - Pay-per-call data over x402 on Solana, Base and Polygon: prices, liquidity, balances, txs and token analytics.
 
 
 - [Aave](https://aave.com) `https://mcp.aave.com`
